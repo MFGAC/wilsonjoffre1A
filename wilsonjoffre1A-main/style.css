@@ -1,0 +1,20 @@
+body{
+  background-image: url(fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.info{
+  color: whitesmoke;
+}
+h1{
+  font-family: "Pricedown";
+  font-size: 50px;
+   src: url(Pricedown.otf) format("opentype");
+}
+p{
+  font-family: "Trueno";
+
+}
+.logo{
+justify-content: center;
+}
