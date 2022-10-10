@@ -12,23 +12,23 @@ width: 300px;
 margin-bottom: -10px;
 margin-top: -20px;
 justify-content: center;
-}
-.info{
-  color: whitesmoke;
+display: block;
 }
 p{
-  margin-right: 500px;
-  display: inline-flex;
+  margin-top: 20px;
+  margin-left: 390px;
+  margin-right: 20px;
   color: whitesmoke;
   background-color: rgba(0, 0, 0, 0.56);
+  font-family: 'Courier New', Courier, monospace;
 }
 h1{
   font-family: "Pricedown";
   font-size: 50px;
 }
 .fachada{
- width: 400px;
- float: right;
- margin-right: 20px;
- margin-left: 20px;
+  width: 350px;
+ float: left;
+ display: block;
+ margin-top: 100px;
 }
