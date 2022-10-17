@@ -16,18 +16,24 @@ display: block;
 }
 p{
   margin-top: 20px;
-  margin-left: 390px;
-  margin-right: 20px;
+  margin-left: 500px;
+  margin-right: 120px;
   color: whitesmoke;
   background-color: rgba(0, 0, 0, 0.56);
   font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 h1{
   font-family: "Pricedown";
   font-size: 50px;
+  margin-top: 20px;
+  margin-left: 500px;
+  margin-right: 120px;
+  color: whitesmoke;
+  background-color: rgba(0, 0, 0, 0.56);
 }
 .fachada{
-  width: 350px;
+  width: 450px;
  float: left;
  display: block;
  margin-top: 100px;
